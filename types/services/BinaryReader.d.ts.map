@@ -1,0 +1,1 @@
+{"version":3,"file":"BinaryReader.d.ts","sourceRoot":"","sources":["../../src/services/BinaryReader.ts"],"names":[],"mappings":"AAEA,qBAAa,YAAY;IAErB,OAAO,CAAC,QAAQ,CAAS;IACzB,OAAO,CAAC,IAAI,CAAa;gBAEL,WAAW,EAAE,WAAW;IAKrC,IAAI,CAAE,GAAG,EAAE,GAAG,GAAG,MAAM;CASjC"}

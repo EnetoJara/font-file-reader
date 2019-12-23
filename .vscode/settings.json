@@ -1,4 +1,5 @@
 {
+
     "editor.suggestSelection": "recentlyUsedByPrefix",
     "editor.autoClosingBrackets": "always",
     "editor.autoClosingOvertype": "always",
@@ -113,8 +114,8 @@
     "[typescript]": {
         "editor.defaultFormatter": "vscode.typescript-language-features"
     },
-    "workbench.colorTheme": "Material Theme Palenight High Contrast",
-    "editor.fontFamily": "'Ubuntu Mono',  'Operator Mono', 'Cascadia Code'",
+    "workbench.colorTheme": "Monokai",
+    "editor.fontFamily": "'Operator Mono', 'Fira Code', 'Ubuntu Mono', 'Cascadia Code'",
     "editor.acceptSuggestionOnCommitCharacter": true,
     "editor.autoSurround": "languageDefined",
     "autoimport.doubleQuotes": true,
